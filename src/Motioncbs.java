@@ -39,3 +39,8 @@ public class Medlemsmenu {
     public void ændroplysninger; {
         System.out.println("\n Nuværende oplysninger");
         //hent oplysinger
+    println
+            vamos a la playa
+                hey
+                        waddup
+                        
